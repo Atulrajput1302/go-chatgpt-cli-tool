@@ -20,3 +20,8 @@ Clone the repository and run
 ![image](https://github.com/Atulrajput1302/go-chatgpt-cli-tool/assets/63898454/e2a0c087-039b-41bc-a2ac-c1e3409383b4)
 
 
+
+
+## Used 
+1. Cobra library - primarily used for creating robust modern CLI applications.
+2. Viper - intended to work with Cobra for configuration solution purposes
